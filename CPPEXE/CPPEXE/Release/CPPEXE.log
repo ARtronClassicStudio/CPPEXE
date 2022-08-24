@@ -1,0 +1,3 @@
+﻿  CPPEXE.cpp
+MSVCRT.lib(exe_main.obj) : error LNK2001: неразрешенный внешний символ "_main"
+C:\Users\artro\source\repos\CPPEXE\Release\CPPEXE.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

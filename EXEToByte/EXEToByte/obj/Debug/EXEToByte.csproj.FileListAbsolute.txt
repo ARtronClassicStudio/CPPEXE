@@ -1,0 +1,10 @@
+C:\Users\artro\source\repos\EXEToByte\EXEToByte\bin\Debug\EXEToByte.exe.config
+C:\Users\artro\source\repos\EXEToByte\EXEToByte\bin\Debug\EXEToByte.exe
+C:\Users\artro\source\repos\EXEToByte\EXEToByte\bin\Debug\EXEToByte.pdb
+C:\Users\artro\source\repos\EXEToByte\EXEToByte\obj\Debug\EXEToByte.csprojAssemblyReference.cache
+C:\Users\artro\source\repos\EXEToByte\EXEToByte\obj\Debug\EXEToByte.Form1.resources
+C:\Users\artro\source\repos\EXEToByte\EXEToByte\obj\Debug\EXEToByte.Properties.Resources.resources
+C:\Users\artro\source\repos\EXEToByte\EXEToByte\obj\Debug\EXEToByte.csproj.GenerateResource.cache
+C:\Users\artro\source\repos\EXEToByte\EXEToByte\obj\Debug\EXEToByte.csproj.CoreCompileInputs.cache
+C:\Users\artro\source\repos\EXEToByte\EXEToByte\obj\Debug\EXEToByte.exe
+C:\Users\artro\source\repos\EXEToByte\EXEToByte\obj\Debug\EXEToByte.pdb
